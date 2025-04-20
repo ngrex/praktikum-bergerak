@@ -1,4 +1,4 @@
-Tugas praktikum 1 ( Membuat Form login dengan fungsi alert )
+Tugas praktikum 1 kelas-B ( Membuat Form login dengan fungsi alert )
 
 Faaza Febriyan Arrifqi
 230403010037
